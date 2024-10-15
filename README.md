@@ -46,7 +46,7 @@ To provide a more comprehensive understanding of the improvement projects, we've
 
 ## Maji Ndogo Water Infrastructure
 
-![image](assets\Water_Infrastructure.png)
+![image](https://github.com/kenmambo/Maji_Ndogo/blob/main/assets/Water_Infrastructure.png)
 
 ## Unlocking Water Security in Maji Ndogo: A Deep Dive with Power BI
 This section delves into the water infrastructure analysis within our Power BI report, highlighting critical aspects impacting Maji Ndogo's water security.
@@ -64,7 +64,7 @@ By analyzing these diverse visualizations, we gain a comprehensive understanding
 
  ## Queues
 
- ![image](assets\Queues.png)
+ ![image](https://github.com/kenmambo/Maji_Ndogo/blob/main/assets/Queues.png)
 
  ## Unveiling the Wait: Insights into Queues in Maji Ndogo with Power BI
  This section explores the queues in Maji Ndogo, analyzed through the Power BI dashboard. Understanding queue patterns and trends is crucial for improving service delivery and streamlining processes.
@@ -80,7 +80,7 @@ By analyzing these diverse visualizations, we gain a comprehensive understanding
 
 ## Water Quality 
 
-![image](assets\Maji_Ndogo_Water_quality.png)
+![image](https://github.com/kenmambo/Maji_Ndogo/blob/main/assets/Maji_Ndogo_Water_quality.png)
 
 **Is the Water Safe? Unveiling Water Quality in Maji Ndogo with Power BI** This section explores water quality in Maji Ndogo, analyzed through the Power BI dashboard. Access to clean water is fundamental for public health and well-being. However, this dashboard helps shed light on the current situation by analyzing water quality parameters.
 
@@ -97,7 +97,7 @@ By analyzing this data, we gain valuable insights into the water quality landsca
 
 ## Crime data in Maji Ndogo
 
-![image](assets\Maji_Ndogo_Crime_data.png)
+![image](https://github.com/kenmambo/Maji_Ndogo/blob/main/assets/Maji_Ndogo_Crime_data.png)
 
 **Safeguarding Maji Ndogo: Unveiling Crime Patterns with Power BI**
 Understanding crime patterns is crucial for creating a safe and secure environment. This section delves into the crime data analysis from the Power BI dashboard, providing valuable insights to inform targeted interventions.
